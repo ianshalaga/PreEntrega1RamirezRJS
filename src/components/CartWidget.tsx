@@ -1,8 +1,9 @@
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import { useState } from "react";
+// import { useState } from "react";
 
 const CartWidget = () => {
-  const [counter, setCounter] = useState(0);
+  // const [counter, setCounter] = useState(0);
+  const counter = 0;
 
   return (
     <div className="flex justify-center items-center">
